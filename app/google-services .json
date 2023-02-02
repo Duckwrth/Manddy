@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43729643583",
+    "firebase_url": "https://maddy-b9757-default-rtdb.firebaseio.com",
+    "project_id": "maddy-b9757",
+    "storage_bucket": "maddy-b9757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43729643583:android:1345d2995204d1f982708a",
+        "android_client_info": {
+          "package_name": "com.example.manddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43729643583-a6gpcessf0ravcugbqemgq8jssr9kpfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manddy",
+            "certificate_hash": "d90eaabf18803619143e70475aaa0636cbb86a53"
+          }
+        },
+        {
+          "client_id": "43729643583-k1ecku03ijo5sqc1umcteemtl860mig1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDom-Q0goN2OOyBE8j-NpBWEjWvCnwo3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43729643583-k1ecku03ijo5sqc1umcteemtl860mig1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43729643583",
+    "project_id": "maddy-b9757",
+    "storage_bucket": "maddy-b9757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43729643583:android:5ccc764222d5eed482708a",
+        "android_client_info": {
+          "package_name": "com.example.manddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43729643583-k1ecku03ijo5sqc1umcteemtl860mig1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDom-Q0goN2OOyBE8j-NpBWEjWvCnwo3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43729643583-k1ecku03ijo5sqc1umcteemtl860mig1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
